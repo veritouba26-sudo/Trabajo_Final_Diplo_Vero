@@ -1,0 +1,6 @@
+{
+  "name": "Clasificador de Riesgo Financiero",
+  "description": "Un clasificador de riesgo corporativo automatizado con IA que evalúa datos de empresas para determinar niveles de riesgo financiero.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
